@@ -1,2 +1,2 @@
-# Launch-School-Introduction-to-Programming-with-Ruby
-Code for the exercises from Launch School's "Introduction to Programming with Ruby" book
+# Launch School: Introduction to Programming with Ruby
+Exercises from Launch School's <a href="https://launchschool.com/books/ruby">"Introduction to Programming with Ruby"</a> book. 
