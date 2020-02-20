@@ -1,5 +1,13 @@
 # Launch School: Introduction to Programming with Ruby
 
+### TL;DR
+
+- Complete the exercises in <a href="https://launchschool.com/books/ruby">"Introduction to Programming with Ruby"</a>
+- Push your code for the exercises to a Github repo
+- One git repo for all exercises in the book
+- Create a folder for each chapter in the book
+- Create a separate file for every exercise in the chapter
+
 ### Instructions
 
 Now that you've got a little exposure to Ruby, it's time to take the next step. **Read and complete the exercises in <a href="https://launchschool.com/books/ruby">"Introduction to Programming with Ruby"</a>.** Be sure that you've mastered the basic Ruby syntax and grammar that we cover in this book: mastery is crucial as you move forward.
